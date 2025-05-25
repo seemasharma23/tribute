@@ -1,4 +1,4 @@
-//contributed ny SEEMA SHARMA
+//contributed by Seema Sharma
 #include <iostream>
 int add(int x, int y) 
 {
